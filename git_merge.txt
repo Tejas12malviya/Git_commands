@@ -5,4 +5,4 @@ for merge of branches we do following steps on git hub
     - Give the message for merge of branches.
     - If same changes in done both the branches then it shows conflict.
     - If everything is clear then click on merge pull request, branches get merge
-    - After merge we can delete the branch. 
+    - After merge we can delete the branch._ 
