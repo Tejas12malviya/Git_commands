@@ -1,0 +1,10 @@
+<----Git commands to add project file in git hub---->
+
+git init                            --------- use to initialize git for the given project 
+git add .                           --------- this command add sabkuch present in the given file to git   
+git commit -m "First commit"        
+
+git remote add origin {link}        --------- it connects local machine project to git hub repository through repo link
+git branch -M main                  --------- switch to main branch where we can push out project
+git push origin -u main
+

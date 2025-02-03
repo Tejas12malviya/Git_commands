@@ -1,0 +1,9 @@
+<--GIT BRANCH COMMAND-->
+
+(NOTE: Branches make ease to work on different part of project at same time like one can do styling, one can do debugging etc. at same time which helps developer to reduce the time for creating project and differentiate the roles for developers)
+
+
+git branch                          --------- use to check branches present in the given repository
+git checkout -b feature             --------- adding branch name feature for the given project
+git checkout main                   --------- changing branch from feature to main 
+git branch -d feature               --------- deleting feature branch (NOTE: The branch in which we are initially present does not delete)
