@@ -1,1 +1,8 @@
 for merge we use PULL REQUEST.
+
+for merge of branches we do following steps on git hub
+    - click on compare and pull request. Git hub shows the branch from which we merge to the branch in which we merge, it is shown by arrow
+    - Give the message for merge of branches.
+    - If same changes in done both the branches then it shows conflict.
+    - If everything is clear then click on merge pull request, branches get merge
+    - After merge we can delete the branch.
